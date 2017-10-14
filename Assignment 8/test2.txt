@@ -1,0 +1,12 @@
+70 80
+120 90 100
+NEXT
+72 78
+NEXT
+NEXT
+NEXT
+91 92
+NEXT
+NEXT
+
+blahblahblah
